@@ -18,7 +18,7 @@ import com.tpl.entity.Product;
 import com.tpl.serviceImpl.ProductService;
 
 @RestController
-@RequestMapping("/Producttest")
+@RequestMapping("/Producttestttt")
 public class ProductController {
 
 	@Autowired
